@@ -1,0 +1,17 @@
+#encabezado{
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(68, 167, 22);
+    color: aliceblue;
+}
+
+#titulo{
+    font-style: oblique;
+    color: black;
+}
+
+#calcular{
+    background-color: rgb(198, 219, 171);
+    font-size: 20px;
+    
+}
